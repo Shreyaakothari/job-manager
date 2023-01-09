@@ -90,7 +90,7 @@
       </section>
       <hr />
 
-      <div class="section-head">
+      <div class="section-header">
         <h1>
           {{ $t('App') }}
           <p class="overline" >{{ "Version: " + appVersion }}</p>
